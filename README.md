@@ -19,7 +19,7 @@ Master Thesis - Master Cybersecurity - UC3M
    Arguments to run this class:
 	  -  "/whole/path/results_ips.txt" 		            (file obtained from previous execution)
 	  -  "/whole/path/input-traces.txt" 		          (file with traces used to insert data into CMS)
-	  -  "/whole/path/positive_concentration.txt"     (name for th file to save results)
+	  -  "/whole/path/positive_concentration.txt"     (name for the file to save results)
 
 
 Detailed description of the code is explained on each class.
